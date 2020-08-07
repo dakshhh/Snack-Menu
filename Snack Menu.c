@@ -13,15 +13,15 @@ main()
 		printf("Snack: Sandwich \n Price: Rs149 \n Enjoy the Snack!");
 		break;
     case 3:
-    	printf("Snack: Pizza \n Price: Rs239 \n Enjoy the Snack!");
+    	        printf("Snack: Pizza \n Price: Rs239 \n Enjoy the Snack!");
 		break;
     case 4:
-    	printf("Snack: French Fries \n Price: Rs99 \n Enjoy the Snack!");
+    	        printf("Snack: French Fries \n Price: Rs99 \n Enjoy the Snack!");
 		break;
 	case 5:
 		printf("Snack: Pasta \n Price: Rs179 \n Enjoy the Snack!");
 		break;
 	default:
-	    printf(" So please pick a snack.");	
+	        printf(" So please pick a snack.");	
 }
 }
